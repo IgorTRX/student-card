@@ -1,3 +1,3 @@
 # My student card
 ## You can see the result here
-[My work | Introductory module](https://github.com/IgorTRX/student-card)
+[My work | Introductory module](https://igortrx.github.io/student-card/)
